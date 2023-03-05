@@ -1,0 +1,14 @@
+<vector android:height="1066.7dp" android:viewportHeight="1066.7"
+    android:viewportWidth="1066.7" android:width="1066.7dp" xmlns:android="http://schemas.android.com/apk/res/android">
+  <group
+      android:name="hour"
+      android:rotation="0"
+      android:pivotY="533.35"
+      android:pivotX="533.35">
+    <path
+        android:pathData="m529.5,259.9c-2.9,-0 -5.3,1.6 -5.3,3.5l-5.4,297.8c-0,1.9 2.3,3.5 5.2,3.5l18.4,-0c2.9,-0 5.2,-1.6 5.2,-3.5l-5.4,-297.8c-0,-1.9 -2.4,-3.5 -5.3,-3.5l-7.4,-0"
+        android:fillColor="#211d1d"
+        android:strokeColor="#00000000"
+        android:fillType="nonZero"/>
+  </group>
+</vector>

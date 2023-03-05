@@ -1,0 +1,12 @@
+<vector android:height="200dp" android:viewportHeight="800"
+    android:viewportWidth="800" android:width="200dp" xmlns:android="http://schemas.android.com/apk/res/android">
+  <group
+      android:name="second"
+      android:rotation="90"
+      android:pivotY="400"
+      android:pivotX="400"
+      >
+    <path android:fillColor="#ed1c24" android:fillType="nonZero"
+        android:pathData="M123.63,400.69C123.63,401.69 125.32,402.51 127.38,402.52L450.57,404.37C452.63,404.39 454.32,403.58 454.32,402.59L454.32,396.26C454.32,395.27 452.63,394.46 450.57,394.48L127.38,396.33C125.32,396.35 123.63,397.17 123.63,398.16L123.63,400.69" android:strokeColor="#00000000"/>
+  </group>
+</vector>

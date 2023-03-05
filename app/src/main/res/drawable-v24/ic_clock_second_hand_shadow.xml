@@ -1,0 +1,16 @@
+<vector android:height="200dp" android:viewportHeight="800"
+    android:viewportWidth="800" android:width="200dp" xmlns:android="http://schemas.android.com/apk/res/android">
+  <group
+      android:name="second_shadow"
+      android:rotation="90"
+      android:pivotY="400"
+      android:pivotX="400"
+      >
+    <path
+        android:pathData="M89.56,400.9C89.56,401.7 91.66,402.36 94.24,402.37L497.88,403.86C500.45,403.87 502.56,403.23 502.56,402.43L502.56,397.32C502.56,396.52 500.45,395.88 497.88,395.89L94.24,397.38C91.66,397.39 89.56,398.05 89.56,398.85L89.56,400.9"
+        android:fillColor="#474747"
+        android:strokeColor="#00000000"
+        android:fillType="nonZero"
+        android:fillAlpha="0.35"/>
+  </group>
+</vector>

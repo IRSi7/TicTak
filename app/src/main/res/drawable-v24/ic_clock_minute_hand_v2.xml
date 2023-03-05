@@ -1,0 +1,15 @@
+<vector android:height="200dp" android:viewportHeight="800"
+    android:viewportWidth="800" android:width="200dp" xmlns:android="http://schemas.android.com/apk/res/android">
+  <group
+      android:name="minute"
+      android:rotation="30"
+      android:pivotY="400"
+      android:pivotX="400"
+      >
+    <path
+        android:pathData="M273.9,175.09C275.41,174.21 277.58,175.06 278.7,176.96L454.81,475.02C455.94,476.92 455.62,479.2 454.1,480.07L444.41,485.66C442.89,486.53 440.76,485.67 439.67,483.75L269.24,182.41C268.15,180.49 268.5,178.2 270.02,177.33L273.9,175.09"
+        android:fillColor="#211D1D"
+        android:strokeColor="#00000000"
+        android:fillType="nonZero"/>
+  </group>
+</vector>

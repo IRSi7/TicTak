@@ -1,0 +1,16 @@
+<vector android:height="200dp" android:viewportHeight="800"
+    android:viewportWidth="800" android:width="200dp" xmlns:android="http://schemas.android.com/apk/res/android">
+  <group
+      android:name="minute_shadow"
+      android:rotation="30"
+      android:pivotY="400"
+      android:pivotX="400"
+      >
+    <path
+        android:pathData="M285.55,174.78C287.07,173.9 289.23,174.74 290.35,176.64L466.47,474.71C467.59,476.61 467.27,478.88 465.75,479.76L456.06,485.34C454.55,486.22 452.42,485.36 451.33,483.44L280.89,182.1C279.8,180.18 280.15,177.89 281.67,177.01L285.55,174.78"
+        android:fillColor="#474747"
+        android:strokeColor="#00000000"
+        android:fillType="nonZero"
+        android:fillAlpha="0.35"/>
+  </group>
+</vector>
