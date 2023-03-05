@@ -12,8 +12,13 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         binding = ActivityMainBinding.inflate(layoutInflater)
-        binding.TicTak.startClock()
+        //binding.TicTak.startClock()
         val view = binding.root
         setContentView(view)
+    }
+
+    override fun onResume() {
+        binding.TicTak.startClock()
+        super.onResume()
     }
 }

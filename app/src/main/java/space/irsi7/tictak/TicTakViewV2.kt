@@ -82,7 +82,7 @@ class TicTakViewV2(
         private const val SECOND_MILLIS: Long = 1000
         private const val MINUTE_MILLIS: Long = 60*1000
         private const val HOUR_MILLIS: Long = 60*60*1000
-        private const val HALF_DAY_MILLIS: Long = 12*60*1000
+        private const val HALF_DAY_MILLIS: Long = 12*60*60*1000
     }
 
 }
