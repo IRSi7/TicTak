@@ -33,6 +33,9 @@
         <entry key="app/src/main/res/drawable/ic_hands.xml" value="0.2985" />
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.2895" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_clock_full_size.xml" value="0.17552083333333332" />
+        <entry key="app/src/main/res/layout/fragment_menu.xml" value="0.19114583333333332" />
+        <entry key="app/src/main/res/layout/fragment_table_clock.xml" value="0.3582427536231884" />
         <entry key="app/src/main/res/layout/tic_tak.xml" value="0.14492753623188406" />
         <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2895" />
       </map>
